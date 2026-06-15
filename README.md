@@ -14,6 +14,8 @@ This is part of the v2 layer of the AI Skills for Media Buyers series — orches
 git clone https://github.com/the-baweja/mid-campaign-pivot.git ~/.claude/skills/mid-campaign-pivot
 ```
 
+**Manual:** clone this repo into any skills directory your Claude setup reads from.
+
 ## Why this skill exists
 
 When a Meta campaign breaks, most operators react with one move — kill ads, refresh creative, blame the algorithm. The composed diagnostic gives you a different angle: **the Audit names the structural mistake, the Fatigue Detector names whether the leak is template fatigue or message fatigue, and the Iteration Engine generates the iterations to ship — but only on ads where the upstream diagnoses say iteration is the right move.**
@@ -95,7 +97,7 @@ This is one of two orchestrators in the **AI Skills for Media Buyers — v2** la
 
 ---
 
-## Want Baweja Media to coach your in-house team through the orchestration pattern + the rest of the system?
+## Want Baweja Media to audit your ad account and explore opportunities to work together?
 
 [→ Book a strategy call](https://webinar.sannidhyabaweja.com/vsl-lp-ind)
 
